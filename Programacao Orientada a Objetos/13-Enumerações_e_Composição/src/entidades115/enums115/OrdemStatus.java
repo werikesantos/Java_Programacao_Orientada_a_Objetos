@@ -1,4 +1,4 @@
-package entidades.enums;
+package entidades115.enums115;
 
 //ESSA É UMA CLASSE DO TIPO ENUMERADO.
 public enum OrdemStatus {
